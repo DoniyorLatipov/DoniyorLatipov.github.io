@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.dev/svgjs" width="260" height="260"><svg width="260" height="260" viewBox="0 0 260 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_78_143)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M130 260C201.797 260 260 201.797 260 130C260 58.203 201.797 0 130 0C58.203 0 0 58.203 0 130C0 201.797 58.203 260 130 260ZM172.13 85.463C162.271 76.636 149.718 72.2222 134.471 72.2222H72.7381V82.0238L88.2143 87.0106V174.365L72.7381 179.696V189.153H134.471C149.718 189.153 162.271 184.74 172.13 175.913C181.988 166.971 186.918 151.782 186.918 130.344C186.918 109.25 181.988 94.2899 172.13 85.463ZM103.003 176.772V84.6032H130.86C139.458 84.6032 146.68 85.9217 152.526 88.5582C158.373 91.0805 162.959 95.7233 166.283 102.487C169.722 109.136 171.442 118.422 171.442 130.344C171.442 142.496 169.722 152.011 166.283 158.889C162.959 165.652 158.373 170.353 152.526 172.989C146.68 175.512 139.458 176.772 130.86 176.772H103.003Z" fill="black"></path>
+</g>
+<defs>
+<clipPath id="SvgjsClipPath1005">
+<rect width="260" height="260" fill="white"></rect>
+</clipPath>
+</defs>
+</svg><style>@media (prefers-color-scheme: light) { :root { filter: none; } }
+@media (prefers-color-scheme: dark) { :root { filter: invert(100%); } }
+</style></svg>
